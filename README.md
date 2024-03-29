@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chia9666
-- 👀 I’m currently interested in the path towards becoming a software engineer, and hopefully a game developer in the far future :)
-- 🌱 I’m currently self-learning Java,Python,C,C++,C#in University Of British Columbia
+- 👀 I’m currently interested in the path towards becoming a software engineer, and a game developer in my spare time :)
+- 🌱 I’m currently studying University Of Technology Brunei.
 - 💞️ I’m looking to collaborate in any projects, although I'm a beginner, I hope to learn and help in anyhow. 
 - 📫 How to reach me, instagram: @kal_pei
 
